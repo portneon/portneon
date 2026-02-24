@@ -1,0 +1,12 @@
+<svg fill="none" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .f { background: #000; color: #fff; font-family: sans-serif; height: 100px; display: flex; align-items: center; justify-content: space-around; border: 4px solid #000; box-sizing: border-box; text-transform: uppercase; font-weight: bold; letter-spacing: 2px; }
+      </style>
+      <div class="f">
+        <span>Connect</span><span>●</span><span>Github</span><span>●</span><span>Portfolio</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
