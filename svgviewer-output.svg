@@ -1,0 +1,74 @@
+<svg width="1200" height="1750" viewBox="0 0 1200 1750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1750" fill="#0D0D0D"/>
+  
+  <path d="M60 0V1750M1140 0V1750M0 60H1200M0 1690H1200" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M60 650H1140M60 1180H1140" stroke="#1A1A1A" stroke-width="1.5"/>
+  
+  <text x="30" y="200" font-family="Helvetica, Arial, sans-serif" font-weight="900" font-size="210" fill="#151515" letter-spacing="-12">PORTNEON</text>
+  
+  <rect x="60" y="280" width="1000" height="160" fill="#E6E6E6"/>
+  <text x="80" y="400" font-family="Helvetica, Arial, sans-serif" font-weight="900" font-size="95" fill="#0D0D0D" letter-spacing="-5">SHASHWAT_SHARMA</text>
+  
+  <g font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="24" fill="#E6E6E6">
+    <text x="60" y="500">ID: portneon</text>
+    <text x="60" y="545">LOC: 18.52 / 73.86 [PUNE_IN]</text>
+    <text x="60" y="590">STATUS: ACTIVE_ARCHITECT</text>
+  </g>
+
+  <rect x="650" y="460" width="490" height="40" fill="#FF3E00"/>
+  <text x="665" y="490" font-family="Helvetica, Arial, sans-serif" font-weight="900" font-size="26" fill="white">CORE_PROFILE</text>
+  <g font-family="Courier New, monospace" font-size="19" fill="#E6E6E6">
+    <text x="650" y="535">Architecting high-performance digital</text>
+    <text x="650" y="565">systems at the intersection of logic</text>
+    <text x="650" y="595">and aesthetics. Full-stack focused</text>
+    <text x="650" y="625">with a growing specialization in AI.</text>
+  </g>
+
+  <g transform="translate(0, 100)">
+    <rect x="80" y="750" width="320" height="280" stroke="#E6E6E6" stroke-width="2"/>
+    <rect x="80" y="750" width="320" height="40" fill="#E6E6E6"/>
+    <text x="90" y="778" font-family="Helvetica" font-weight="900" font-size="20" fill="black">01_LANGUAGES</text>
+    <g font-family="Courier New" font-size="18" font-weight="bold" fill="#FF3E00">
+      <text x="100" y="830">> PYTHON</text>
+      <text x="100" y="865">> TYPESCRIPT</text>
+      <text x="100" y="900">> JAVASCRIPT</text>
+      <text x="100" y="935">> SQL / NOSQL</text>
+    </g>
+
+    <rect x="440" y="750" width="320" height="280" stroke="#FF3E00" stroke-width="2"/>
+    <rect x="440" y="750" width="320" height="40" fill="#FF3E00"/>
+    <text x="450" y="778" font-family="Helvetica" font-weight="900" font-size="20" fill="white">02_PACKAGES</text>
+    <g font-family="Courier New" font-size="17" font-weight="bold" fill="#E6E6E6">
+      <text x="460" y="830">> REACT / NEXT.JS</text>
+      <text x="460" y="865">> NODE / EXPRESS</text>
+      <text x="460" y="900">> TAILWIND / PRISMA</text>
+    </g>
+
+    <rect x="800" y="750" width="320" height="280" stroke="#444" stroke-width="2"/>
+    <rect x="800" y="750" width="320" height="40" fill="#444"/>
+    <text x="810" y="778" font-family="Helvetica" font-weight="900" font-size="20" fill="#AAA">03_SYSTEMS</text>
+    <g font-family="Courier New" font-size="17" font-weight="bold" fill="#888">
+      <text x="820" y="830">> GIT / GITHUB</text>
+      <text x="820" y="865">> GITHUB ACTIONS</text>
+      <text x="820" y="900">> OAUTH 2.0</text>
+      <text x="820" y="935">> REST APIS</text>
+      <text x="820" y="970">> DSA / ML</text>
+    </g>
+  </g>
+
+  <a href="mailto:shashwat.sharma@adypu.edu.in" target="_blank" style="cursor: pointer;">
+    <rect x="60" y="1280" width="1080" height="250"/>
+    <text x="100" y="1450" font-family="Helvetica, Arial, sans-serif" font-weight="900" font-size="120" fill="white" letter-spacing="-8">LETS_CONNECT</text>
+
+  </a>
+
+  <text x="60" y="1720" font-family="Courier New, monospace" font-size="16" fill="#444444">TIMESTAMP: 2026.02.24 // SHASHWAT_RESUME_SYNCED_V13</text>
+  <text x="1000" y="1720" font-family="Helvetica, Arial, sans-serif" font-weight="900" font-size="18" fill="#FF3E00">CONFIDENTIAL</text>
+
+  <rect width="1200" height="1750" fill="url(#noise)" opacity="0.05" pointer-events="none"/>
+  <defs>
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.6" numOctaves="4" stitchTiles="stitch"/>
+    </filter>
+  </defs>
+</svg>
